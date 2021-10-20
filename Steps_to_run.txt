@@ -1,0 +1,15 @@
+First Create virtual environment 
+
+Next install requirements.txt using (pip install -r requirements.txt )
+
+Next run command (python manage.py runserver)
+
+Next run (http://127.0.0.1:8000/search/index/) in your browser
+
+Next enter text in search field 
+
+Next hit search button 
+
+Output is generated below 
+
+
